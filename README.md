@@ -1,8 +1,6 @@
 # weak up
-```
 ## 1.giới thiệu
-weak up là mộ ứng dụng di động có chức năng hẹn giò và báo thức. một ứng dụng đồng hồ báo thức độc đáo, trẻ trung, tiện lợi.
-```
+> weak up là mộ ứng dụng di động có chức năng hẹn giò và báo thức. một ứng dụng đồng hồ báo thức độc đáo, trẻ trung, tiện lợi.
 ## 2. mục tiêu
 lấy người dùng làm trung tâm, weak up mang đến cho người sủ dụng phục vụ tốt nhất cho chức năng báo thức, tạo cảm giác thoải mái, tiện lợi khi sử dụng. đối tượng hướng tói chủ yếu là giới trẻ học sinh, sinh viên, người đã đi làm. ngoài chức ngăng báo thức thông thường weak up còn giữ profile người dùng giúp ứng dụng gần gũi nhất với người dùng.
 ## 3. sự khác biệt
