@@ -25,6 +25,7 @@ Android >=2.3, window phone, ios.
     * báo sau 1 thời gian nhất định
 * chức năng khóa báo thức
 * có notification icon
+
 ## các tác vụ
 1. màn khởi động
 2. nhập thông tin cá nhân 
